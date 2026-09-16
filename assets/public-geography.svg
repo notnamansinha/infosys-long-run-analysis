@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img">
+<title>The revenue map broadened</title>
+<desc>Geographic revenue share · FY2010 versus FY2026</desc>
+<rect width="1200" height="680" rx="24" fill="#f7fafc"/>
+<text x="72" y="72" fill="#152536" font-family="Arial,sans-serif" font-size="34" font-weight="700">The revenue map broadened</text>
+<text x="72" y="108" fill="#637282" font-family="Arial,sans-serif" font-size="18">Geographic revenue share · FY2010 versus FY2026</text>
+<text x="110" y="263" text-anchor="end" fill="#152536" font-family="Arial,sans-serif" font-size="22" font-weight="700">FY2010</text>
+<rect x="130.0" y="220" width="618.5" height="78" fill="#1769aa"/>
+<text x="439.3" y="267" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">65.8%</text>
+<rect x="748.5" y="220" width="216.2" height="78" fill="#008b8b"/>
+<text x="856.6" y="267" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">23.0%</text>
+<rect x="964.7" y="220" width="11.3" height="78" fill="#e07a2d"/>
+<rect x="976.0" y="220" width="94.0" height="78" fill="#8090a5"/>
+<text x="1023.0" y="267" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">10.0%</text>
+<text x="110" y="433" text-anchor="end" fill="#152536" font-family="Arial,sans-serif" font-size="22" font-weight="700">FY2026</text>
+<rect x="130.0" y="390" width="527.3" height="78" fill="#1769aa"/>
+<text x="393.7" y="437" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">56.1%</text>
+<rect x="657.3" y="390" width="301.7" height="78" fill="#008b8b"/>
+<text x="808.2" y="437" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">32.1%</text>
+<rect x="959.1" y="390" width="27.3" height="78" fill="#e07a2d"/>
+<rect x="986.3" y="390" width="83.7" height="78" fill="#8090a5"/>
+<text x="1028.2" y="437" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="19" font-weight="700">8.9%</text>
+<rect x="105" y="525" width="18" height="18" rx="3" fill="#1769aa"/>
+<text x="133" y="540" fill="#152536" font-family="Arial,sans-serif" font-size="15">North America</text>
+<rect x="365" y="525" width="18" height="18" rx="3" fill="#008b8b"/>
+<text x="393" y="540" fill="#152536" font-family="Arial,sans-serif" font-size="15">Europe</text>
+<rect x="625" y="525" width="18" height="18" rx="3" fill="#e07a2d"/>
+<text x="653" y="540" fill="#152536" font-family="Arial,sans-serif" font-size="15">India</text>
+<rect x="885" y="525" width="18" height="18" rx="3" fill="#8090a5"/>
+<text x="913" y="540" fill="#152536" font-family="Arial,sans-serif" font-size="15">Rest of World</text>
+<text x="72" y="635" fill="#637282" font-family="Arial,sans-serif" font-size="14">Public issuer disclosures. Europe gained 9.1 percentage points; North America declined 9.7 points.</text>
+</svg>

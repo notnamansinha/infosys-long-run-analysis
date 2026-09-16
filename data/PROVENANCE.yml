@@ -1,0 +1,55 @@
+datasets:
+  - public_company_history.csv
+  - public_geography_mix.csv
+  - public_business_mix_fy2026.csv
+  - public_capital_returns.csv
+created: 2026-09-16
+rights_status: reviewed factual extraction
+release_basis: >-
+  Limited extraction of reported corporate facts from public issuer filings,
+  independently selected and arranged; no source document, image, chart, layout,
+  or expressive passage is reproduced.
+publisher: Infosys Limited
+sources:
+  - id: infosys_ar_2012
+    title: Annual Report 2011-12 - Additional Information
+    url: https://www.infosys.com/content/dam/infosys-web/en/investors/reports-filings/annual-report/annual/documents/ar-2012/PDFs/Additional_Information_12.pdf
+    supports: FY2007-FY2012 revenue, profit, and employees
+  - id: infosys_ar_2021
+    title: Annual Report 2020-21 - Historical Data
+    url: https://www.infosys.com/investors/reports-filings/documents/additional-information-2020-21.pdf
+    supports: FY2012-FY2013 operating profit and operating margin
+  - id: infosys_ar_2026
+    title: Annual Report 2025-26 - Historical Data
+    url: https://www.infosys.com/investors/reports-filings/documents/additional-information-2025-26.pdf
+    supports: FY2014-FY2026 financials and employees
+  - id: infosys_ar_2010_segmentation
+    title: Annual Report 2009-10 - Revenue Segmentation
+    url: https://www.infosys.com/content/dam/infosys-web/en/investors/reports-filings/annual-report/annual/documents/ar-2010/Additional-Information/Revenue-Segmentation.html
+    supports: FY2010 geographic revenue percentages
+  - id: infosys_ar_2026_consolidated
+    title: Annual Report 2025-26 - Consolidated Financial Statements
+    url: https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/2025-26/consolidated.pdf
+    supports: FY2026 business-segment revenue
+  - id: infosys_investor_faq
+    title: Investor Frequently Asked Questions
+    url: https://www.infosys.com/investors/shareholder-services/faqs.html
+    supports: FY2014-FY2026 dividend per share
+  - id: infosys_ar_2024
+    title: Integrated Annual Report 2023-24
+    url: https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2023-24.html
+    supports: FY2024 free cash flow
+  - id: infosys_ar_2025
+    title: Integrated Annual Report 2024-25
+    url: https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2024-25.html
+    supports: FY2025 free cash flow
+transformations:
+  - standardized fiscal years as four-digit integers
+  - standardized INR financial values to crore
+  - calculated revenue per employee, indexes, growth rates, and CAGR in report and charts
+limitations:
+  - long series crosses accounting and presentation changes
+  - employee counts are fiscal year-end, not annual averages
+  - blank operating fields were not backfilled from restricted material
+pii_review: no personal data present
+reproducible_input: public URLs listed above

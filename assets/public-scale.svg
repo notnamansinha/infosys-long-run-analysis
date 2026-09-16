@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img">
+<title>Scale, earnings and workforce</title>
+<desc>Indexed to FY2007 = 100 · Infosys public filings</desc>
+<rect width="1200" height="680" rx="24" fill="#f7fafc"/>
+<text x="72" y="72" fill="#152536" font-family="Arial,sans-serif" font-size="34" font-weight="700">Scale, earnings and workforce</text>
+<text x="72" y="108" fill="#637282" font-family="Arial,sans-serif" font-size="18">Indexed to FY2007 = 100 · Infosys public filings</text>
+<line x1="92" y1="580.0" x2="1122" y2="580.0" stroke="#dbe3ea" stroke-width="1"/>
+<text x="78" y="586.0" text-anchor="end" fill="#637282" font-family="Arial,sans-serif" font-size="15">0</text>
+<line x1="92" y1="472.5" x2="1122" y2="472.5" stroke="#dbe3ea" stroke-width="1"/>
+<text x="78" y="478.5" text-anchor="end" fill="#637282" font-family="Arial,sans-serif" font-size="15">400</text>
+<line x1="92" y1="365.0" x2="1122" y2="365.0" stroke="#dbe3ea" stroke-width="1"/>
+<text x="78" y="371.0" text-anchor="end" fill="#637282" font-family="Arial,sans-serif" font-size="15">800</text>
+<line x1="92" y1="257.5" x2="1122" y2="257.5" stroke="#dbe3ea" stroke-width="1"/>
+<text x="78" y="263.5" text-anchor="end" fill="#637282" font-family="Arial,sans-serif" font-size="15">1,200</text>
+<line x1="92" y1="150.0" x2="1122" y2="150.0" stroke="#dbe3ea" stroke-width="1"/>
+<text x="78" y="156.0" text-anchor="end" fill="#637282" font-family="Arial,sans-serif" font-size="15">1,600</text>
+<text x="24" y="365" transform="rotate(-90 24 365)" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">Index (FY2007 = 100)</text>
+<path d="M 92.0 553.1 L 146.2 547.7 L 200.4 538.0 L 254.6 536.0 L 308.8 526.8 L 363.1 514.7 L 417.3 501.9 L 471.5 483.0 L 525.7 476.9 L 579.9 459.2 L 634.1 447.5 L 688.3 443.6 L 742.5 420.1 L 796.7 404.4 L 850.9 385.6 L 905.2 344.7 L 959.4 296.1 L 1013.6 282.7 L 1067.8 264.7 L 1122.0 234.4" fill="none" stroke="#1769aa" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1122.0" cy="234.4" r="6" fill="#1769aa"/>
+<text x="1114.0" y="221.4" text-anchor="end" fill="#1769aa" font-family="Arial,sans-serif" font-size="17" font-weight="700">Revenue 1286</text>
+<path d="M 92.0 553.1 L 146.2 547.5 L 200.4 538.3 L 254.6 536.6 L 308.8 532.4 L 363.1 522.0 L 417.3 514.2 L 471.5 505.7 L 525.7 493.9 L 579.9 485.8 L 634.1 479.8 L 688.3 468.1 L 742.5 472.4 L 796.7 463.9 L 850.9 444.4 L 905.2 425.4 L 959.4 411.7 L 1013.6 396.8 L 1067.8 393.3 L 1122.0 374.3" fill="none" stroke="#e07a2d" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1122.0" cy="374.3" r="6" fill="#e07a2d"/>
+<text x="1114.0" y="361.3" text-anchor="end" fill="#e07a2d" font-family="Arial,sans-serif" font-size="17" font-weight="700">Net profit 766</text>
+<path d="M 92.0 553.1 L 146.2 546.1 L 200.4 541.0 L 254.6 537.7 L 308.8 531.3 L 363.1 524.2 L 417.3 521.7 L 471.5 520.3 L 525.7 514.5 L 579.9 507.8 L 634.1 505.5 L 688.3 504.1 L 742.5 495.1 L 796.7 489.8 L 850.9 483.4 L 905.2 463.2 L 959.4 452.3 L 1013.6 462.0 L 1067.8 459.6 L 1122.0 457.8" fill="none" stroke="#008b8b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1122.0" cy="457.8" r="6" fill="#008b8b"/>
+<text x="1114.0" y="444.8" text-anchor="end" fill="#008b8b" font-family="Arial,sans-serif" font-size="17" font-weight="700">Employees 455</text>
+<text x="92.0" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY07</text>
+<text x="254.6" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY10</text>
+<text x="471.5" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY14</text>
+<text x="688.3" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY18</text>
+<text x="905.2" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY22</text>
+<text x="1122.0" y="612" text-anchor="middle" fill="#637282" font-family="Arial,sans-serif" font-size="15">FY26</text>
+<text x="72" y="650" fill="#637282" font-family="Arial,sans-serif" font-size="14">Author calculations. Revenue and profit are nominal ₹ values; workforce is year-end headcount.</text>
+</svg>

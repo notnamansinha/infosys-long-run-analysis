@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Private or licensed inputs. Keep them outside the public release.
+private-archive/
+data/raw/
+data/derived/
+*.eml
+*.xls
+*.xlsx
+*.pdf
+*.docx
+output/
+
+# The demo fixture is intentionally synthetic and redistributable.
+!examples/demo_series.csv
+
+# This compact factual dataset is independently extracted from public filings.
+!data/
+data/*
+!data/public_company_history.csv
+!data/public_geography_mix.csv
+!data/public_business_mix_fy2026.csv
+!data/public_capital_returns.csv
+!data/README.md
+!data/PROVENANCE.yml

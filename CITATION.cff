@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the repository and the datasets used in your own analysis."
+title: "Scaling with Discipline? A public-source operating study of Infosys, FY2007-FY2026"
+type: dataset
+authors:
+  - family-names: Sinha
+    given-names: Naman
+date-released: 2026-09-16
+version: 1.0.0
+repository-code: "https://github.com/notnamansinha/infosys-long-run-analysis"
+license: MIT

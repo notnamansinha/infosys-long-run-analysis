@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rights-aware research pipeline</title>
+  <desc id="desc">Authorized inputs move through a schema map and quality checks before becoming documented outputs.</desc>
+  <rect width="1280" height="360" fill="#132238"/>
+  <text x="70" y="72" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="700">The public chain of custody</text>
+  <text x="70" y="102" fill="#9db0c8" font-family="Arial, sans-serif" font-size="15">Every published artifact should be traceable from permission to presentation.</text>
+  <g stroke="#3a526f" stroke-width="2"><line x1="286" y1="211" x2="352" y2="211"/><line x1="576" y1="211" x2="642" y2="211"/><line x1="866" y1="211" x2="932" y2="211"/></g>
+  <g fill="#82a4d1"><path d="M344 203l14 8-14 8z"/><path d="M634 203l14 8-14 8z"/><path d="M924 203l14 8-14 8z"/></g>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(70 154)"><circle cx="24" cy="24" r="24" fill="#51c2a4"/><text x="24" y="30" text-anchor="middle" fill="#132238" font-size="18" font-weight="700">01</text><text x="0" y="82" fill="#ffffff" font-size="18" font-weight="700">Authorized input</text><text x="0" y="108" fill="#9db0c8" font-size="14">A source you may use</text><text x="0" y="130" fill="#9db0c8" font-size="14">and redistribute</text></g>
+    <g transform="translate(360 154)"><circle cx="24" cy="24" r="24" fill="#f3a65a"/><text x="24" y="30" text-anchor="middle" fill="#132238" font-size="18" font-weight="700">02</text><text x="0" y="82" fill="#ffffff" font-size="18" font-weight="700">Schema map</text><text x="0" y="108" fill="#9db0c8" font-size="14">Fields, units, dates,</text><text x="0" y="130" fill="#9db0c8" font-size="14">and missingness</text></g>
+    <g transform="translate(650 154)"><circle cx="24" cy="24" r="24" fill="#82a4d1"/><text x="24" y="30" text-anchor="middle" fill="#132238" font-size="18" font-weight="700">03</text><text x="0" y="82" fill="#ffffff" font-size="18" font-weight="700">Quality checks</text><text x="0" y="108" fill="#9db0c8" font-size="14">Bounds, reconciliation,</text><text x="0" y="130" fill="#9db0c8" font-size="14">and provenance</text></g>
+    <g transform="translate(940 154)"><circle cx="24" cy="24" r="24" fill="#d0b2f2"/><text x="24" y="30" text-anchor="middle" fill="#132238" font-size="18" font-weight="700">04</text><text x="0" y="82" fill="#ffffff" font-size="18" font-weight="700">Documented output</text><text x="0" y="108" fill="#9db0c8" font-size="14">Charts, narrative,</text><text x="0" y="130" fill="#9db0c8" font-size="14">and citations</text></g>
+  </g>
+  <text x="70" y="320" fill="#617993" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.2">METHOD FIRST | DATA RIGHTS VISIBLE | NO HIDDEN INPUTS</text>
+</svg>
